@@ -1,13 +1,13 @@
 # Product Management Application
 
-This is simple CRUD product management application built with Laravel
+This is simple CRUD application built with Laravel.
 
 ## Prerequisites
 
-- PHP 8.3 or higher
-- Composer
-- Mysql
-- Node.js and npm (for fontend assets)
+- PHP 8.3 or higher.
+- Composer.
+- Mysql.
+- Node.js and npm (for fontend assets).
 
 ## Setup
 
@@ -45,6 +45,6 @@ This is simple CRUD product management application built with Laravel
 
 ## Features
 
-- Create, Read, Update and Delete products
-- Paginated products
-- Form validation
+- Create, Read, Update and Delete products.
+- Paginated products.
+- Form validation.
