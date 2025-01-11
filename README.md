@@ -4,10 +4,10 @@ This is simple CRUD application built with Laravel.
 
 ## Prerequisites
 
-- PHP 8.3 or higher.
-- Composer.
-- Mysql.
-- Node.js and npm (for fontend assets).
+- PHP 8.3 or higher
+- Composer
+- Mysql
+- Node.js and npm (for fontend assets)
 
 ## Setup
 
@@ -37,8 +37,14 @@ This is simple CRUD application built with Laravel.
    ```
    php artisan migrate --seed
    ```
-
-6. Start the devolopment server:
+   
+6. Install and compile frontend assets:
+   ```
+   npm install
+   npm run dev
+   ```
+   
+7. Start the devolopment server:
    ```
    php artisan serve
    ```
